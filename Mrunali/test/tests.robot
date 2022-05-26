@@ -25,7 +25,7 @@ Entering A Lead
     TypeText                  Title                       Manager                     Address Information
     TypeText                  Email                       tina.smith12@gmail.com        Rating
     TypeText                  Website                     https://www.growmore.com/
-    ClickText                 --None--
+    ClickText                 Country                            --None--                    
     PickList                  Country                     China
     Picklist                  Lead Source                 Email
     ClickText                 Save                        partial_match=False
