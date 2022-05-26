@@ -17,7 +17,7 @@ Entering A Lead
     UseModal                  On                          # Only find fields from open modal dialog
 
     Picklist                  Salutation                  Ms.
-    TypeText                  First Name                  Jack
+    TypeText                  First Name                  Tina
     TypeText                  Last Name                   Smith
     PickList                  Country                     China
     Picklist                  Lead Status                 1 - New
