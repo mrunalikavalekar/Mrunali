@@ -17,13 +17,13 @@ Entering A Lead
     UseModal                  On                          # Only find fields from open modal dialog
 
     Picklist                  Salutation                  Ms.
-    TypeText                  First Name                  Tina
+    TypeText                  First Name                  Jack
     TypeText                  Last Name                   Smith
     Picklist                  Lead Status                 1 - New
     TypeText                  Phone                       +12234567858449             First Name
     TypeText                  Company                     Growmore                    Last Name
     TypeText                  Title                       Manager                     Address Information
-    TypeText                  Email                       tina.smith@gmail.com        Rating
+    TypeText                  Email                       tina.smith12@gmail.com        Rating
     TypeText                  Website                     https://www.growmore.com/
     PickList                  Country                     China
     Picklist                  Lead Source                 Email
