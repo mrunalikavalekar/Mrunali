@@ -19,7 +19,7 @@ Entering A Lead
     Picklist                  Salutation                  Ms.
     TypeText                  First Name                  Jack
     TypeText                  Last Name                   Smith
-    PickList                  Country                     China
+    PickList                  Country                     //*[@id="combobox-input-201"]
     Picklist                  Lead Status                 1 - New
     TypeText                  Phone                       +12234567858449             First Name
     TypeText                  Company                     Growmore                    Last Name
