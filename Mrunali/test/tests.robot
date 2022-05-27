@@ -20,7 +20,10 @@ Entering A Lead
     TypeText                  First Name                  Tina
     TypeText                  Last Name                   Smith
     TypeText                  Room                        ABC
-    PickList                  Country                     China
+    ClickText                 Country                     
+    TypeText                  Country                     C
+    ClickText                 China
+    #PickList                  Country                     China
     Picklist                  Lead Status                 1 - New
     TypeText                  Phone                       +12234567858449             First Name
     TypeText                  Company                     Growmore                    Last Name
