@@ -20,8 +20,6 @@ Entering A Lead
     TypeText                  First Name                  Tina
     TypeText                  Last Name                   Smith
     TypeText                  Room                        ABC
-    ClickText                 Country                     
-    ClickText                 --None--                    anchor=Country
     PickList                  Country                     China
     Picklist                  Lead Status                 1 - New
     TypeText                  Phone                       +12234567858449             First Name
