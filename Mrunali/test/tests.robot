@@ -19,6 +19,7 @@ Entering A Lead
     Picklist                  Salutation                  Ms.
     TypeText                  First Name                  Tina
     TypeText                  Last Name                   Smith
+    TypeText                  Room                        ABC
     ClickText                 Country                     
     ClickText                 --None--                    anchor=Country
     PickList                  Country                     China
