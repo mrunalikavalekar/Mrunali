@@ -21,7 +21,7 @@ Entering A Lead
     TypeText                  Last Name                   Smith
     TypeText                  Room                        ABC
     ClickText                 Country                     
-    TypeText                  Country                     C
+    #TypeText                  Country                     C
     ClickText                 China
     #PickList                  Country                     China
     Picklist                  Lead Status                 1 - New
