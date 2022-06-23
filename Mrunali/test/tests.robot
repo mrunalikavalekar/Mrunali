@@ -14,6 +14,9 @@ Entering A Lead
     #VerifyText                Change Owner
     ClickText                 New
     ClickText                 Save    partial_match=false
+    VerifyElementText         //div[@Class\='genericNotification']    Review the following fields
+
+
     VerifyText                Lead Information
     UseModal                  On                          # Only find fields from open modal dialog
 
