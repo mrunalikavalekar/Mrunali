@@ -13,6 +13,7 @@ Entering A Lead
     ClickText                 Leads
     #VerifyText                Change Owner
     ClickText                 New
+    ClickText                 Save    partial_match=false
     VerifyText                Lead Information
     UseModal                  On                          # Only find fields from open modal dialog
 
