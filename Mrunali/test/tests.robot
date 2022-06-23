@@ -16,7 +16,6 @@ Entering A Lead
 
     VerifyText                Lead Information
     UseModal                  On                          # Only find fields from open modal dialog
-
     Picklist                  Salutation                  Ms.
     TypeText                  First Name                  Tina
     TypeText                  Last Name                   Smith
