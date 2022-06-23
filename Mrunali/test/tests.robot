@@ -8,10 +8,7 @@ Suite Teardown                End suite
 Entering A Lead
     [tags]                    Lead
     Appstate                  Home
-    #LaunchApp                 Sales
-
     ClickText                 Leads
-    #VerifyText                Change Owner
     ClickText                 New
     ClickText                 Save    partial_match=false
     VerifyElementText         //div[@Class\='genericNotification']    Review the following fields
